@@ -1,0 +1,15 @@
+﻿<meta>
+  <info name="Frosty Cops and Robbers" description="Frosty Cops and Robberts for Grand Theft Auto: Network" author= "VirtualFrost" version="0.0.1" shadowcopy="true" />
+
+  <script src="FrostyGM.cs" type="server" lang="csharp" />
+  
+  <assembly ref="Insight.Database.Configuration.dll" />
+  <assembly ref="Insight.Database.dll" />
+  <assembly ref="Insight.Database.Providers.Default.dll" />
+  <assembly ref="Insight.Database.Providers.MySql.dll" />
+  <assembly ref="MySql.Data.dll" />
+  <assembly ref="System.Data.dll" />
+  <assembly ref="System.Globalization.dll" />
+  <assembly ref="System.Configuration.dll" />
+  <assembly ref="BCrypt.Net.dll" />
+</meta>
